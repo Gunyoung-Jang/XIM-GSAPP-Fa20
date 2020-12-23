@@ -354,10 +354,13 @@ broader node means less FAR, but more openness for each node.
 
 Scout design variation
 
-
+ <br />
+ 
+ 
 ### Results
 
-
+ <br />
+ 
 METRICS IN ORDER OF PRIORITIES
 
 1. CPTED = MUTUAL CARE
@@ -367,7 +370,10 @@ METRICS IN ORDER OF PRIORITIES
 5. DAY LIGHT ON BUILDINGS = MENTAL HEALTH
 
 
-![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/Universal%20NYC_Relation%20between%20CPTED%20and%20Daylight%20hours%20on%20street.png)
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/VS_BST%20Wilson%20GunYoungJang%20JiyongChun%20FA20%2030_Results%20and%20Conclusion2.JPG)
+
+![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/VS_BST%20Wilson%20GunYoungJang%20JiyongChun%20FA20%2031_Results%20and%20Conclusion3.JPG)
+
 
 We found that Daylight on streets, Daylight on buildings, and CPTED analysis were not independent variables but interrelated variables with other metrics.
 This means that there is no optimized design option in every metrics.
@@ -377,14 +383,13 @@ First of all, to realize the community for people with disabilities, CPTED is th
 Next, generally, most of the residents have physical difficulties. This is why SAFETY(VIEW RANGE) and ACCESSIBILITY are second and third only to CPTED.
 Last, the daylight on streets and buildings can improve residents' and visitors' mental health and living qualities.
 
-
-![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/VS_BST%20Wilson%20GunYoungJang%20JiyongChun%20FA20%2030_Results%20and%20Conclusion2.JPG)
-
-![description](https://github.com/Gunyoung-Jang/XIM-GSAPP-Fa20/blob/main/src/images/VS_BST%20Wilson%20GunYoungJang%20JiyongChun%20FA20%2031_Results%20and%20Conclusion3.JPG)
-
-
+ <br />
+ 
+  <br />
 
 ### Conclusions and Next Steps
+
+ <br />
 
 ###### Conclusions
 
@@ -398,6 +403,8 @@ Node offest distance 30ft <br />
 
 
 We concluded that the selected design (street option 1/ FAR option 4/ Podium height 35ft/ Node offeset distance 30ft) is the most optimized design for the community for the people with disabilities.
+
+ <br />
 
 ###### Next Steps
 
